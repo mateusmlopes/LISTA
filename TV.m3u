@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | H.265 [01] ",A&E 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC H265" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | H.265 [01] ",AMC H265
+#EXTINF:-1 tvg-id="" tvg-name="AMC H265" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="Canais | H.265 [01] ",AMC 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62888.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET H265" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | H.265 [01] ",ANIMAL PLANET 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62794.m3u8
@@ -21,16 +21,16 @@ http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62798.m3u8
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62799.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG H265" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | H.265 [01] ",BOOMERANG 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62800.m3u8
-#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | H.265 [01]",Canal Brasil 
+#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-name="Canal Brasil FHD" tvg-logo="http://i.imgur.com/8NoMJrr.png" group-title="Canais | H.265 [01]",CANAL BRASIL
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/41517.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SONY H265" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Canais | H.265 [01] ",CANAL SONY 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON H265" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | H.265 [01] ",CARTOON 
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON H265" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | H.265 [01] ",CARTOON NETWORK
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62804.m3u8
-#EXTINF:-1 tvg-id="CNN BRASIL H265" tvg-name="CNN BRASIL H265" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | H.265 [01]",CNN BRASIL 
-http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/65042.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Canais | H.265 [01] ",CINEMAX 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62808.m3u8
+#EXTINF:-1 tvg-id="CNN BRASIL H265" tvg-name="CNN BRASIL H265" tvg-logo="https://i.imgur.com/FWygjkw.jpg" group-title="Canais | H.265 [01]",CNN BRASIL 
+http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/65042.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE H265" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | H.265 [01]",COMBATE 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/50536.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL H265" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="Canais | H.265 [01] ",COMEDY CENTRAL 
@@ -139,16 +139,16 @@ http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62850.m3u8
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62849.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL H265" tvg-logo="http://i.imgur.com/ubp029X.png" group-title="Canais | H.265 [01] ",MUSIC BOX BRAZIL 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS - H265" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | H.265 [01] ",NATIONAL GEOGRAFIC KIDS 
-http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO H265" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | H.265 [01] ",NATIONAL GEOGRAFIC 
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO H265" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="Canais | H.265 [01] ",NATIONAL GEOGRAPHIC 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD H265" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | H.265 [01] ",NAT GEOGRAFIC WILD 
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS - H265" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | H.265 [01] ",NATIONAL GEOGRAPHIC KIDS 
+http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD H265" tvg-logo="https://2.bp.blogspot.com/-e722WjvLQN4/WiSHlMMXysI/AAAAAAAAAmE/gSaDC1V8Jl4WQ4vNmhKgnO1RuZrQ0W_9wCLcBGAs/s1600/assistir-nat-geo-wild-online.png" group-title="Canais | H.265 [01] ",NATIONAL GEOGRAPHIC WILD 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR H265" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | H.265 [01] ",NICKELODEON JR 
-http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62884.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON H265" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | H.265 [01] ",NICKELODEON 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR H265" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | H.265 [01] ",NICKELODEON JR 
+http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62884.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OFF H265" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Canais | H.265 [01] ",OFF 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62890.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT H265" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Canais | H.265 [01] ",PARAMOUNT
@@ -163,8 +163,8 @@ http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/51260.m3u8
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62844.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 H265" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | H.265 [01] ",PREMIERE 5 
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/51262.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6  H265" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | H.265 [01] ",PREMIERE 6  
-http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/51263.m3u8
+#EXTINF:-1 tvg-id="Premiere 6 FHD" tvg-name="Premiere 6 FHD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais |  H.265 [01]",Premiere 6
+http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/38406.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PFC 7 H265 " tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | H.265 [01] ",PREMIERE 7
 http://tv.minhalista.me:80/live/iptvmateusmoreira/s7tpjwtvwvb/62841.m3u8
 #EXTINF:-1 tvg-id="100% Vida" tvg-name="PLAYKIDS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtB6seDqwxnCvi0thV6r9CcKYVPr8FTdL4ew&usqp=CAU" group-title="Canais | H.265 [01] ",PLAYKIDS 
